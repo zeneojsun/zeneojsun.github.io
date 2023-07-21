@@ -1,8 +1,8 @@
 title: Noel's Blog
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: my first github site for blogging
 show_downloads: true
-google_analytics:
+google_analytics: 74276110
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
